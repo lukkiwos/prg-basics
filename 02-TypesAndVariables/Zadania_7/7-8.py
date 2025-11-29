@@ -10,4 +10,4 @@ dice_roll_3 = random.randint(1,6)
 
 total = dice_roll_1 + dice_roll_2 + dice_roll_3
 
-print(f'Dice rolls: {dice_roll_1}, {dice_roll_2}, {dice_roll_3}, Total: {total}')
+print(f'Dice rolls: {dice_roll_1}, {dice_roll_2}, {dice_roll_3}\n Total: {total}')
