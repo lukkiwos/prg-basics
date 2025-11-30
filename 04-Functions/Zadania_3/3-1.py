@@ -3,10 +3,17 @@
 # you must include that module in your program.
 import math
 
+
 square_root = math.sqrt(7)
-print('A square root of 7 is', square_root)
+print(f'\nA square root of 7 is: {square_root:.4f}')
+
 
 natural_logarithm = math.log1p(5)
-print('A natural logarithm of 5 is', natural_logarithm)
+print(f'\nA natural logarithm of 5 is: {natural_logarithm:.4f}')
 
-#sine = math.sin(x)
+
+degree = 90
+radians = math.radians(90)
+
+sine = math.sin(radians)
+print(f'\nA sine of 90 degrees is: {sine}\n')

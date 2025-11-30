@@ -1,3 +1,8 @@
+#def function_name(parameters):
+    ## Code block (function body)
+    #return result  ## Optional: Returns a value
+
+
 def add(a, b):
     result = a + b
     return result
