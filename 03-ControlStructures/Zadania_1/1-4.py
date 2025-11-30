@@ -1,6 +1,7 @@
 ###
 # Credit card payment 
 #
+
 account_balance = 500
 total_payment = int(input("Podaj kwotę transakcji: "))
 
