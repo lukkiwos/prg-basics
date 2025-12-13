@@ -1,0 +1,17 @@
+computer_games = [
+   "Minecraft", "Fortnite", "Cyberpunk 2077", "The Witcher 3",
+   "League of Legends", "Valorant", "Grand Theft Auto V", 
+   "Elden Ring", "Apex Legends", "Call of Duty: Warzone"
+]
+
+computer_games.sort()
+
+index = 0
+
+print("\n Moja posortowana Lista Gier: ")
+
+while index < len(computer_games):
+    game_name = computer_games[index]
+    index + 1
+    print(f"{index + 1}. {game_name}")
+    index += 1
