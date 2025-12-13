@@ -1,4 +1,4 @@
-## Debugging
+## 1. Debugging
 
 Debugging is the process of identifying, analyzing, and fixing errors or issues (commonly known as "bugs") in a computer program. It involves carefully inspecting the code to ensure that it works as expected and correcting any logical, syntactical, or runtime errors that might cause unexpected behavior or crashes.
 
