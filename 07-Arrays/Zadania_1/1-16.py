@@ -13,6 +13,7 @@ file_names = [
 
 
 sorted_distances = sorted(distances_traveled)
+print()
 print(sorted_distances)
 print()
 
@@ -24,3 +25,4 @@ print()
 
 sorted_files = sorted(file_names)
 print(sorted_files)
+print()
