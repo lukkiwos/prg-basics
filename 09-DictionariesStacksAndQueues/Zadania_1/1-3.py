@@ -8,4 +8,4 @@ mobile = {
 }
 
 for key,value in mobile.items():
-   print(f"{key} : {value}\n")
+   print(f"\n{key} : {value}\n")
