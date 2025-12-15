@@ -20,5 +20,6 @@ seven_wonders.sort()
 
 # Write data to the file
 with open(file_name, 'w') as file:
-      for item in file_name:
-        file.write(f"Seven Wonders in alphabetical order: {seven_wonders}\n")
+   file.write("Seven Wonders in alphabetical order: \n")
+   for item in seven_wonders:
+      file.write(f"{item}\n")
