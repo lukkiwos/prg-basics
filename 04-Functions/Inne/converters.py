@@ -4,15 +4,6 @@ def m_to_cm(n):         # 1
 def cm_to_m(n):         # 2
     return n / 100
 
-def cm_to_inch(n):      # 3
-    return n / 2.54
-
-def inch_to_cm(n):      # 4
-    return n * 2.54
-
-def feet_to_inch(n):    # 5
-    return n * 30.48
-
 if __name__ == "__main__":
     # only execute when you run this module
     # so you can test the functions in this place
