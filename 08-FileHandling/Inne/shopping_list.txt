@@ -1,3 +1,6 @@
-mleko 
-chleb 
-jabłko 
+mleko
+jajka
+chleb
+masło
+pomidory
+ogórek
