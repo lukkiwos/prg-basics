@@ -4,8 +4,12 @@
 # Read the dimensions of the cuboid from the keyboard.
 #
 
-a = input('a = ')
-...
-...
-...
+a = int(input('a = '))
+b = int(input("b = "))
+c = int(input("c = "))
 
+volume = 2*(a*b + b*c + a*c)
+surface_area = a * b * c
+
+print(f"Volume = {volume}")
+print(f"Surface area = {surface_area}")
